@@ -1,6 +1,6 @@
 maria:
-	pdflatex AndresLedesmaCV.tex
-	rm -rf AndresLedesmaCV.aux AndresLedesmaCV.log AndresLedesmaCV.out
+	pdflatex AndresLedesmaResume.tex
+	rm -rf AndresLedesmaResume.aux AndresLedesmaResume.log AndresLedesmaResume.out
 
 clean:
-	rm -rf AndresLedesmaCV.pdf AndresLedesmaCV.pdf
+	rm -rf AndresLedesmaResume.pdf AndresLedesmaResume.pdf
